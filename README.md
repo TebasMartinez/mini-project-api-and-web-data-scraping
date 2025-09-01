@@ -1,1 +1,1 @@
-# mini-project-api-and-web-data-scraping
+# Mini Project: API and Web Data Scraping
